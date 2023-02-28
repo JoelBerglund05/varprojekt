@@ -5,3 +5,5 @@ Idag gjorde vi den blanka mallen för filsystemet med index och Kenneths tre sep
 
 
 ## **Tisdag 28/2**
+
+Idag gjorde jag scecher framewire ideer och började göra den i datorn. 
