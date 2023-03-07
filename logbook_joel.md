@@ -7,3 +7,12 @@ Idag gjorde vi den blanka mallen för filsystemet med index och Kenneths tre sep
 ## **Tisdag 28/2**
 
 Idag gjorde jag scecher framewire ideer och började göra den i datorn. 
+
+
+## **Måndag 06/03**
+
+Idag gjorde jag wierframe för mobil och desktop, Jag blev inte riktigt färdig.
+
+## **Tisdag 07/03**
+
+Idag gjorde jag färdigt wierframes för både mobil och desktop. 
