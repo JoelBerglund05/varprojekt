@@ -10,3 +10,7 @@ Idag skapade jag allas loggböcker och länkade in våra tre css dokument i inde
 
 ## **Måndag 6/3**
 Idag gjorde jag våran moodboard och började göra color palettes, då jag gjorde 4 stycken som jag ska utveckla nästa gång. Joel fortsatte med wireframes och Lukas var sjuk.
+
+
+## **Tisdag 7/3**
+Idag fortsatte jag med vårat color palette medans joel gjorde färdigt (tror han gjorde färdigt) wireframsen och började smått på våran style guide. Vi bestämde oss för det generella temat som färgerna skulle framge igår, alltså något liknande växtlighet, livrrikhet, innovationsrikhet och grön el. Detta är anledningen varför vi valde temat grönt, samt det gav mig möjligheten att gå in lite djupare på f'rgerna idag. Jag blev ej helt färdig, men jag har börjat kolla kontrast på våra färger, fastställt färgschemat samt börjat kika på ljusare och mörkare toner av våra färger.
