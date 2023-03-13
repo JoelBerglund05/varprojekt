@@ -32,3 +32,6 @@ Start sidan kommer att ha stora cards under varandra.
 Mobil info sidan ska se likadan som på datorn men mindre och med bilden mellan texten istället för på samma x axeln.
 
 ![wierframe info sida mobil](img/img_style_guide/2-infopage.png)
+
+
+hej hej hej
