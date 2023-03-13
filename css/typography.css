@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "junction";
+  src: url(fonts/junction-master/webfonts/junction-regular.eot);
+}
+
+
+p{
+  font-family: "juncion";
+
+  font-size: 30px;
+}
+
+h1{
+  font-family: "junction";
+}
