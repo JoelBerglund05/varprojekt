@@ -11,7 +11,7 @@ Till en **Primary** bakgrund använder vi text-dark.
 Våran layout på på start sida ska innehålla ett grid system med 12 columner. Vi kommer inte använda Bootstraps vi kommer att arbeta i ett 
 eget layout system.
 
-![wierframe](Homepage.png)
+![wireframe](Homepage.png)
 
 ### **Info sida**
 
