@@ -18,3 +18,7 @@ Idag fortsatte jag med vårat color palette medans joel gjorde färdigt (tror ha
 
 ## **Måndag 13/3**
 Idag fortsatte jag att kolla litegrann på analysverktyg samt fixa färdigt med färgerna. Jag har bestämt vårat color palette, hittat gradients för alla färger samt kollat hur färgerna ser ut för olika sorters färgblindhet. Jag har märkt att vi t.ex. ej kan sätta våran "yellow green" och "umber" bredvid varann, eftersom hemsidans kontrast då ej duger för färgblinda personer.
+
+
+## **Tisdag 14/3**
+Idag hade jag utvecklingssamtal så jag missade en del av lektionen. Resterande delen jobbade jag med att fastslå våra business objectives, samt hjälpa resten av gruppen med att kolla och väga olika fonts mot varandra.
