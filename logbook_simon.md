@@ -13,4 +13,12 @@ Idag gjorde jag våran moodboard och började göra color palettes, då jag gjor
 
 
 ## **Tisdag 7/3**
-Idag fortsatte jag med vårat color palette medans joel gjorde färdigt (tror han gjorde färdigt) wireframsen och började smått på våran style guide. Vi bestämde oss för det generella temat som färgerna skulle framge igår, alltså något liknande växtlighet, livrrikhet, innovationsrikhet och grön el. Detta är anledningen varför vi valde temat grönt, samt det gav mig möjligheten att gå in lite djupare på f'rgerna idag. Jag blev ej helt färdig, men jag har börjat kolla kontrast på våra färger, fastställt färgschemat samt börjat kika på ljusare och mörkare toner av våra färger.
+Idag fortsatte jag med vårat color palette medans joel gjorde färdigt (tror han gjorde färdigt) wireframsen och började smått på våran style guide. Vi bestämde oss för det generella temat som färgerna skulle framge igår, alltså något liknande växtlighet, livrrikhet, innovationsrikhet och grön el. Detta är anledningen varför vi valde temat grönt, samt det gav mig möjligheten att gå in lite djupare på färgerna idag. Jag blev ej helt färdig, men jag har börjat kolla kontrast på våra färger, fastställt färgschemat samt börjat kika på ljusare och mörkare toner av våra färger.
+
+
+## **Måndag 13/3**
+Idag fortsatte jag att kolla litegrann på analysverktyg samt fixa färdigt med färgerna. Jag har bestämt vårat color palette, hittat gradients för alla färger samt kollat hur färgerna ser ut för olika sorters färgblindhet. Jag har märkt att vi t.ex. ej kan sätta våran "yellow green" och "umber" bredvid varann, eftersom hemsidans kontrast då ej duger för färgblinda personer.
+
+
+## **Tisdag 14/3**
+Idag hade jag utvecklingssamtal så jag missade en del av lektionen. Resterande delen jobbade jag med att fastslå våra business objectives, samt hjälpa resten av gruppen med att kolla och väga olika fonts mot varandra.
