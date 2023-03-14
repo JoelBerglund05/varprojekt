@@ -1,15 +1,39 @@
 @font-face {
-  font-family: "junction";
-  src: url(fonts/junction-master/webfonts/junction-regular.eot);
+  /*Bröd text*/
+  font-family: "promt_light";
+  src: url(fonts/Prompt/Prompt-Light.ttf);
+
+  /*Rubrik*/
+  font-family: "roboto_bold";
+  src: url(fonts/Roboto_Slab/static/RobotoSlab-Bold.ttf);
 }
 
-
 p{
-  font-family: "juncion";
-
-  font-size: 30px;
+  font-family: "promt_light";
+  font-size: 1.25rem;
 }
 
 h1{
-  font-family: "junction";
+  font-family: "roboto_bold";
+  font-size: 3.5rem;
+}
+h2{
+  font-family: "roboto_bold";
+  font-size: 2.5rem;
+}
+h3{
+  font-family: "roboto_bold";
+  font-size: 2rem;
+}
+h4{
+  font-family: "roboto_bold";
+  font-size: 1.75rem;
+}
+h5{
+  font-family: "roboto_bold";
+  font-size: 1.5rem;
+}
+h6{
+  font-family: "roboto_bold";
+  font-size: 1.25rem;
 }
