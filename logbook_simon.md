@@ -22,3 +22,7 @@ Idag fortsatte jag att kolla litegrann på analysverktyg samt fixa färdigt med 
 
 ## **Tisdag 14/3**
 Idag hade jag utvecklingssamtal så jag missade en del av lektionen. Resterande delen jobbade jag med att fastslå våra business objectives, samt hjälpa resten av gruppen med att kolla och väga olika fonts mot varandra.
+
+
+## **Måndag 20/3**
+Idag gjorde jag vårat bootstrap builder dokument, länkade det och började göra våran logotyp. Jag håller på att experimentera med att använda en eldfluga som logga, eftersom dem kan kopplas till både miljö och elektricitet. 
