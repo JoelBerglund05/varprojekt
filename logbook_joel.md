@@ -17,8 +17,16 @@ Idag gjorde jag wierframe för mobil och desktop, Jag blev inte riktigt färdig.
 
 Idag gjorde jag färdigt wierframes för både mobil och desktop. Jag har också lagt in wierframesen i style guiden och väldigt lite om brödtext och primmary.
 
-## **Måndag något**
+## **Måndag 13/03**
 
-## **Tisdag dagen feter något**
+
+
+## **Tisdag 14/03**
 
 ## **Måndag 20/03**
+
+jag kika på layouten och hur vi ska göra med den.
+
+## **Tisdag 21/03**
+
+ignen lektion
