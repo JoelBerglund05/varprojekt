@@ -6,8 +6,6 @@ Till en **Primary** bakgrund använder vi text-dark.
 
 ## **Layout**
 
-Grid systemet ska vara ett fluid grid system. Detta betyder att veiwporten på skärmen avgör storleken på content. Vi kommer inte använda Bootstraps vi kommer att arbeta i ett eget layout system.
-
 ### **Start sida**
 
 ![wierframe](img_style_guide/desktop-Homepage.png)
