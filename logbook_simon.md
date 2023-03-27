@@ -26,3 +26,11 @@ Idag hade jag utvecklingssamtal så jag missade en del av lektionen. Resterande 
 
 ## **Måndag 20/3**
 Idag gjorde jag vårat bootstrap builder dokument, länkade det och började göra våran logotyp. Jag håller på att experimentera med att använda en eldfluga som logga, eftersom dem kan kopplas till både miljö och elektricitet. 
+
+
+## **Tisdag 21/3**
+Ingen lektion.
+
+
+##**Måndag 27/3**
+Idag fortsatte jag att göra loggan, som jag nu har kommit på exakt hur den skall vara. Loggan ska bestå av en glödlampa där dem glödande strängarna istället ska vara två växter. Jag har nästan gjort färdigt formen på lampan och därefter återstår växten samt färgläggning.
