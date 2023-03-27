@@ -32,3 +32,7 @@ jag kika på layouten och hur vi ska göra med den.
 ## **Tisdag 21/03**
 
 ignen lektion
+
+## **Måndag 27/03**
+
+Idag kikade jag på bootstraps layout och hur den funkar.
