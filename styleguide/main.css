@@ -60,6 +60,15 @@
   grid-column: 5 / 9;
   grid-row: 7;
 }
+.buissnes_objective_rub{
+  grid-column: 1 / 4;
+  grid-row: 8;
+}
+.buissnes_objective{
+  grid-column: 1 / 6;
+  grid-row: 9;
+}
+
 h1, h2{
   text-align: center;
   
