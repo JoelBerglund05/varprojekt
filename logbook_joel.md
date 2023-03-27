@@ -19,9 +19,11 @@ Idag gjorde jag färdigt wierframes för både mobil och desktop. Jag har också
 
 ## **Måndag 13/03**
 
-
+Idag har jag kikat på vilken hemsida vi ska ta fonten på men ingen hemsida jag hittade passade vårt behov eller visade en font och sedan var det inte samma på vår hemsida
 
 ## **Tisdag 14/03**
+
+Idag letade jag font på google fonts. jag tyckte  det känndes lättast att bara ladda ner och använda den i documentet.
 
 ## **Måndag 20/03**
 
