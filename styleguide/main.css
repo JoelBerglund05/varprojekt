@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     justify-content: center;
+    margin: 0 10rem 0 10rem;
 }
 .typo_rub{
     grid-column: 5 / 9;
