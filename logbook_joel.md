@@ -1,4 +1,4 @@
-# Vårprojektet logbok
+# Vårprojektet loggbok
 
 ## **Måndag 27/2** 
 Idag gjorde vi den blanka mallen för filsystemet med index och Kenneths tre separata css filer. Vi fixade också github och git för lättare fildelning.

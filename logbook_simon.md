@@ -32,5 +32,9 @@ Idag gjorde jag vårat bootstrap builder dokument, länkade det och började gö
 Ingen lektion.
 
 
-##**Måndag 27/3**
+## **Måndag 27/3**
 Idag fortsatte jag att göra loggan, som jag nu har kommit på exakt hur den skall vara. Loggan ska bestå av en glödlampa där dem glödande strängarna istället ska vara två växter. Jag har nästan gjort färdigt formen på lampan och därefter återstår växten samt färgläggning.
+
+
+## **Tisdag 28/3**
+idag fortsatte jag fortfarande med loggan, där jag nu har gjort färdigt glödlampan, samt nästan gjort färdigt växten. Jag ska finslipa och bestämma färgerna, sedan är loggan färdig.
