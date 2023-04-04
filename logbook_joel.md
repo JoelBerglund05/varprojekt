@@ -36,3 +36,15 @@ ignen lektion
 ## **Måndag 27/03**
 
 Idag kikade jag på bootstraps layout och hur den funkar.
+
+## **Tisdag 28/03**
+
+Idag fortsatte jag med layouten på start sidan.
+
+## **Måndag 03/04**
+
+Jag började med att bygga layouten på footern på hemsidan. jag sttöte på ett problem med att punkten på ul inte ctäknas som content vilket gjorde det omöjligt att centrera den. 
+
+## **Tisdag 04/04**
+
+Jag lyckades fixa problemet med punkten och ändrade widthen på corten på hemsidan till att vara lite relativ. 

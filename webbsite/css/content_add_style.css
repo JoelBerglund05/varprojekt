@@ -1,0 +1,15 @@
+.footer_ul{
+  list-style: none;
+  padding: 0;
+}
+.footer_ul li::before{
+  content: "•";
+}
+body{
+  background-image: url("img/vindkraftjpg.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100vmax;
+  background-repeat: no-repeat;
+}
