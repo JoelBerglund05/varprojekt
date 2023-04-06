@@ -5,11 +5,16 @@
 .footer_ul li::before{
   content: "•";
 }
-body{
-  background-image: url("img/vindkraftjpg.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: 100vmax;
+.placement_header{
+  padding: 35vh 0 5vh 0;
+}
+.placement_text{
+  margin-bottom: 5vh;
+}
+.background{
+  width: 100%;
+  height: 100vh;
+  background-image: url(img/vindkraftjpg.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
 }
