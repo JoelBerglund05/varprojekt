@@ -38,3 +38,15 @@ Idag fortsatte jag att göra loggan, som jag nu har kommit på exakt hur den ska
 
 ## **Tisdag 28/3**
 idag fortsatte jag fortfarande med loggan, där jag nu har gjort färdigt glödlampan, samt nästan gjort färdigt växten. Jag ska finslipa och bestämma färgerna, sedan är loggan färdig.
+
+
+## **Måndag 3/4**
+Sten sax påse turnering tog hela lektionen
+
+
+## **Tisdag 4/4**
+CSS podcast provet tog hela lektionen
+
+
+## **Måndag 18/4**
+Idag exporterade jag båda versionerna av loggan samt gjorde en ny "bakgrunds-svg" som skall ha en parallax animation. Jag optimerade dessutom alla tre och lade in dem i vår hemsidas mapp.
