@@ -1,13 +1,12 @@
 # Vårprojektet loggbok
 
-## **Måndag 27/2** 
-Idag gjorde vi den blanka mallen för filsystemet med index och Kenneths tre separata css filer. Vi fixade också github och git för lättare fildelning.
+## **Måndag 27/2**
 
+Idag gjorde vi den blanka mallen för filsystemet med index och Kenneths tre separata css filer. Vi fixade också github och git för lättare fildelning.
 
 ## **Tisdag 28/2**
 
-Idag gjorde jag scecher framewire ideer och började göra den i datorn. 
-
+Idag gjorde jag scecher framewire ideer och började göra den i datorn.
 
 ## **Måndag 06/03**
 
@@ -23,7 +22,7 @@ Idag har jag kikat på vilken hemsida vi ska ta fonten på men ingen hemsida jag
 
 ## **Tisdag 14/03**
 
-Idag letade jag font på google fonts. jag tyckte  det känndes lättast att bara ladda ner och använda den i documentet.
+Idag letade jag font på google fonts. jag tyckte det känndes lättast att bara ladda ner och använda den i documentet.
 
 ## **Måndag 20/03**
 
@@ -43,8 +42,12 @@ Idag fortsatte jag med layouten på start sidan.
 
 ## **Måndag 03/04**
 
-Jag började med att bygga layouten på footern på hemsidan. jag sttöte på ett problem med att punkten på ul inte ctäknas som content vilket gjorde det omöjligt att centrera den. 
+Jag började med att bygga layouten på footern på hemsidan. jag sttöte på ett problem med att punkten på ul inte ctäknas som content vilket gjorde det omöjligt att centrera den.
 
 ## **Tisdag 04/04**
 
-Jag lyckades fixa problemet med punkten och ändrade widthen på corten på hemsidan till att vara lite relativ. 
+Jag lyckades fixa problemet med punkten och ändrade widthen på corten på hemsidan till att vara lite relativ.
+
+## **måndag 17/04**
+
+Jag har fixat utseendet på powersource sidorna
