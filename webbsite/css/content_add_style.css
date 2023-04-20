@@ -5,22 +5,9 @@
 .footer_ul li::before {
   content: "•";
 }
-.background {
-  width: 100%;
-  height: 100vh;
-  background-image: url(img/parallax5-min.svg);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 .header-style {
   z-index: 0;
 }
 .z-index {
   z-index: 999;
-}
-body {
-  background-color: #244918ff;
-}
-.bg-test {
-  background-color: #f5f5dd;
 }
