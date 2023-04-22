@@ -2,9 +2,30 @@
   list-style: none;
   padding: 0;
 }
-.footer_ul li::before {
-  content: "•";
+.arrow_back {
+  position: relative;
 }
+.footer_ul .arrow_back:before {
+  content: url(img/arrow-back-to-the-latest-page.png);
+  position: absolute;
+  top: -10%;
+  right: 100%;
+  width: 50%;
+}
+.arrow_forward {
+  position: relative;
+}
+.footer_ul .arrow_forward:after {
+  content: url(img/arrow-to-next-page.png);
+  position: absolute;
+  top: -10%;
+  left: 110%;
+  width: 50%;
+}
+.footer_ul .dot:before {
+  content: "• ";
+}
+
 .background {
   width: 100%;
   height: 100vh;
