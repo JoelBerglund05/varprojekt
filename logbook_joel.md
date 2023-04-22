@@ -51,3 +51,10 @@ Jag lyckades fixa problemet med punkten och ändrade widthen på corten på hems
 ## **måndag 17/04**
 
 Jag har fixat utseendet på powersource sidorna
+
+## **Tisdag 18/04**
+
+Simon fixade en bakgrunds bild som jag satte in på alla sidor, det nya utsendet tycker jag är mycket mer uniformed tidigare kändes det som
+att varge section av sidan var en egen del fast än de handlade om samma sak. Vi hade inte tänkt från början att bakgrunden skulle vara som
+vi valde att sätta den nu så vi kommer behöva kika in på lite förendringar på vilka färger och om vi inte ska byta ut vissa färger tex den
+vita färgen vi använde kommer vi byta ut eftersom att den stack ut på ett dåligt sätt den förstörde effekten som vår nya bakgund skapade.
