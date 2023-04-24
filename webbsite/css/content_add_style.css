@@ -52,9 +52,9 @@
 }
 
 .keyart_layer {
-  background-position: bottom center;
-  background-size: auto 1038px;
-  background-repeat: repeat-x;
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
   width: 100%;
   position: absolute;
 }
