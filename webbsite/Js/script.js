@@ -3,7 +3,7 @@ function castParallax() {
   var opFactor = 750;
 
   window.addEventListener("scroll", function (event) {
-    var top = this.pageYOffset;
+    var top = this.scrollY;
 
     var layers = document.getElementsByClassName("parallax");
     var layer, speed, yPos;
