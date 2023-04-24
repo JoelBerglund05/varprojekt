@@ -8,6 +8,10 @@
 .header-style {
   z-index: 0;
 }
+.center {
+  width: 100%;
+  height: 100vh;
+}
 
 .keyart,
 .keyart_layer {
@@ -27,7 +31,7 @@
   background-position: top left;
   background-size: cover;
   background-repeat: no-repeat;
-  width: 100vw;
+  width: 100%;
   position: absolute;
 }
 .keyart_layer.parallax {
