@@ -5,6 +5,9 @@
 .arrow_back {
   position: relative;
 }
+/*
+TA INTE BORT!!!!!
+
 .footer_ul .arrow_back:before {
   content: url(img/arrow-back-to-the-latest-page.png);
   position: absolute;
@@ -22,4 +25,12 @@
   top: 0;
   left: 110%;
   width: 50%;
+}*/
+.show-content-sm {
+  display: none;
+}
+@media (max-width: 767px) {
+  .show-content-sm {
+    display: contents;
+  }
 }

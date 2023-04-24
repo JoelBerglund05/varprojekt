@@ -25,5 +25,11 @@ document.body.onload = castParallax();
 let go_back = document.getElementById("go-back");
 
 go_back.addEventListener("click", () => {
-  history.back();
+  console.log(document.referrer);
+
+  if (document.referrer == "<empty string>") {
+    console.log("tjo");
+  } else {
+    history.back();
+  }
 });
