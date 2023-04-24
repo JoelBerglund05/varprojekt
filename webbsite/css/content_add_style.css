@@ -12,6 +12,7 @@
 .keyart,
 .keyart_layer {
   height: 100vh;
+  z-index: -1;
 }
 
 #parallax {
@@ -20,7 +21,6 @@
 
 .keyart {
   position: relative;
-  z-index: -100;
 }
 
 .keyart_layer {
