@@ -55,3 +55,7 @@ Idag exporterade jag båda versionerna av loggan samt gjorde en ny "bakgrunds-sv
 ## **Tisdag 18/4**
 
 Idag jobbade jag med att ändra bakgrunds-svg färgschemat, samt segmenterade den till olika svg filer. Andra delen av lektionen använde jag för att försöka förstå hur olika parallax effekter fungerade, som exempel på codepen och javascript library. Jag märkte i efterhand att segmenteringen ej behövs, så jag tog bort dem.
+
+## **Måndag 24/4**
+
+Idag fixade jag storleken på alla parallax element, eftersom dem alla hade en maskerad och därmed osynlig del som räknades med i background size-cover, på grund av hur jag gjorde dem med clipping tools i inkscape. När man då använde "background-size: cover;" så blev parallax elementen effektivt mindre än hela skärmen, eftersom dem osynliga delarna räknades med. Jag gjorde som sagt därför om elementen denna lektion för att bli av med dem osynliga delarna, så background-size kommer fungera som den skall.
