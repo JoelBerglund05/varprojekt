@@ -1,6 +1,6 @@
 @font-face {
   /*Bröd text*/
-  font-family: "promt_light";
+  font-family: "prompt_light";
   src: url(fonts/Prompt/Prompt-Light.ttf);
 
   /*Rubrik*/
@@ -8,30 +8,25 @@
   src: url(fonts/Roboto_Slab/static/RobotoSlab-Bold.ttf);
 }
 
-p{
-  font-family: "promt_light";
+p {
+  font-family: "prompt_light";
 }
 
-h1{
-  font-family: "roboto_bold";
-
-}
-h2{
-  font-family: "roboto_bold";
-
-}
-h3{
-  font-family: "roboto_bold";
-
-}
-h4{
+h1 {
   font-family: "roboto_bold";
 }
-h5{
+h2 {
   font-family: "roboto_bold";
-
 }
-h6{
+h3 {
   font-family: "roboto_bold";
-
+}
+h4 {
+  font-family: "roboto_bold";
+}
+h5 {
+  font-family: "roboto_bold";
+}
+h6 {
+  font-family: "roboto_bold";
 }

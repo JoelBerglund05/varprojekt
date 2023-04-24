@@ -31,7 +31,7 @@
 }
 
 .keyart_layer {
-  background-position: left;
+  background-position: top left;
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -41,41 +41,41 @@
   position: fixed;
 }
 #keyart-0 {
-  background-image: url("img/sky-min.svg");
+  background-image: url("img/sky2-min.svg");
 }
 #keyart-1 {
-  background-image: url("img/ground5-min.svg");
+  background-image: url("img/ground52-min.svg");
 }
 #keyart-2 {
-  background-image: url("img/ground4-min.svg");
+  background-image: url("img/ground42-min.svg");
 }
 #keyart-3 {
-  background-image: url("img/ground3-min.svg");
+  background-image: url("img/ground32-min.svg");
 }
 #keyart-4 {
-  background-image: url("img/ground2-min.svg");
+  background-image: url("img/ground22-min.svg");
 }
 #keyart-5 {
-  background-image: url("img/ground1-min.svg");
+  background-image: url("img/ground12-min.svg");
 }
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
   #keyart-0 {
-    background-image: url("img/sky-min.svg");
+    background-image: url("img/sky2-min.svg");
   }
   #keyart-1 {
-    background-image: url("img/ground5-min.svg");
+    background-image: url("img/ground52-min.svg");
   }
   #keyart-2 {
-    background-image: url("img/ground4-min.svg");
+    background-image: url("img/ground42-min.svg");
   }
   #keyart-3 {
-    background-image: url("img/ground3-min.svg");
+    background-image: url("img/ground32-min.svg");
   }
   #keyart-4 {
-    background-image: url("img/ground2-min.svg");
+    background-image: url("img/ground22-min.svg");
   }
   #keyart-5 {
-    background-image: url("img/ground1-min.svg");
+    background-image: url("img/ground12-min.svg");
   }
 }
