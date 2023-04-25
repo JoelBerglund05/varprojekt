@@ -30,3 +30,13 @@ h5 {
 h6 {
   font-family: "roboto_bold";
 }
+.sm-text {
+  font-size: 0.7rem;
+}
+.link-style {
+  text-decoration: underline;
+  color: blue;
+}
+.link-style:visited {
+  color: purple;
+}
