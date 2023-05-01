@@ -10,7 +10,7 @@ function cast_parallax() {
       var y_position = -((top * speed) / 100);
       layer.setAttribute(
         "style",
-        "transform: translate3d(0px, " + y_position + "px, 0px)"
+        "transform: translate3d(0px, " + y_position + "px, 0px);"
       );
     }
   });

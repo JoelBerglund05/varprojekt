@@ -11,7 +11,7 @@
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/layout.css" />
     <link rel="stylesheet" href="css/color.css" />
     <link rel="stylesheet" href="css/typography.css" />
@@ -33,42 +33,59 @@
       </li>
     </ul>
     <div class="keyart" id="parallax">
-      <div class="keyart_layer parallax" id="keyart-0" data-speed="0"></div>
-
-      <div class="keyart_layer parallax" id="keyart-1" data-speed="20"></div>
-
-      <div class="keyart_layer parallax" id="keyart-2" data-speed="40"></div>
-
-      <div class="keyart_layer parallax" id="keyart-3" data-speed="60"></div>
-
-      <div class="keyart_layer parallax" id="keyart-4" data-speed="80"></div>
       <div
-        class="min-vh-100 w-100 d-flex align-items-center parallax keyart_layer"
+        class="keyart_layer w-100 min-vh-100 parallax position-fixed"
+        id="keyart-0"
+        data-speed="0"
+      ></div>
+
+      <div
+        class="keyart_layer w-100 min-vh-100 parallax position-fixed"
+        id="keyart-1"
+        data-speed="20"
+      ></div>
+
+      <div
+        class="keyart_layer w-100 min-vh-100 parallax position-fixed"
+        id="keyart-2"
+        data-speed="40"
+      ></div>
+
+      <div
+        class="keyart_layer w-100 min-vh-100 position-fixed parallax"
+        id="keyart-3"
+        data-speed="60"
+      ></div>
+
+      <div
+        class="keyart_layer w-100 min-vh-100 position-fixed parallax"
+        id="keyart-4"
+        data-speed="80"
+      ></div>
+      <div
+        class="w-100 min-vh-100 d-flex align-items-center justify-content-center parallax position-fixed keyart_layer"
         data-speed="40"
       >
-        <div class="container-sm">
-          <div class="">
-            <h1 class="text-white text-center mb-5">Inogreen</h1>
-           
-          </div>
+        <div class="container-md">
+          <h1 class="text-white text-center mb-5 text">Inogreen</h1>
+          <p class="text-white text">
+            Hemsidan om framtiden! Välkomen till Inogreens hemsida som kommer
+            berätta för dig några olika alternativ till kol och olje bränning.
+            Det är viktigt för oss att genetationerna efter oss har det lika bra
+            som vi har det, då måste vi sammarbeta för att sänka koldioxid
+            utsläppen.
+          </p>
         </div>
       </div>
-      
-      <div class="keyart_layer position-relative d-flex justify-content-center" id="keyart-5">
-        <p class="text-white w-50 position-absolute bottom-0">
-          Hemsidan om framtiden! Välkomen till Inogreens hemsida som kommer
-          berätta för dig några olika alternativ till kol och olje bränning.
-          Det är viktigt för oss att genetationerna efter oss har det lika
-          bra som vi har det, då måste vi sammarbeta för att sänka koldioxid
-          utsläppen.
-        </p>
-      </div>
-      
+      <div
+        class="keyart_layer w-100 min-vh-100 d-flex justify-content-center"
+        id="keyart-5"
+      ></div>
     </div>
-    <div class="background pt-5">
+
+    <div class="background">
       <div class="container-md pt-5">
         <div class="row justify-content-around my-3">
-          
           <div class="col-12 col-md-6 col-sm-12 link">
             <div class="card card_width mx-auto border border-black">
               <img
@@ -104,7 +121,7 @@
             </div>
           </div>
           <div class="col-12 col-md-6 col-sm-12 link">
-            <div class="card card_width mx-auto">
+            <div class="card card_width mx-auto bg-white">
               <img
                 src="css/img/tillfälligbild.jpg  "
                 class="card-img-top"
