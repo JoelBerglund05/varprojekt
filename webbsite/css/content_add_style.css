@@ -8,35 +8,13 @@
 .header-style {
   z-index: 0;
 }
-.center {
-  width: 100%;
-  height: 100vh;
-}
-.p {
-  padding-top: 1rem;
-}
 .keyart,
 .keyart_layer {
-  height: 100vh;
   z-index: -1;
 }
-
-#parallax {
-  display: block;
-}
-
-.keyart {
-  position: relative;
-}
-
 .keyart_layer {
   background-size: cover;
   background-repeat: no-repeat;
-  width: 100%;
-  position: absolute;
-}
-.keyart_layer.parallax {
-  position: fixed;
 }
 #keyart-0 {
   background-image: url("img/sky2-min.svg");
@@ -55,25 +33,4 @@
 }
 #keyart-5 {
   background-image: url("img/ground12-min.svg");
-}
-
-@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-  #keyart-0 {
-    background-image: url("img/sky2-min.svg");
-  }
-  #keyart-1 {
-    background-image: url("img/ground52-min.svg");
-  }
-  #keyart-2 {
-    background-image: url("img/ground42-min.svg");
-  }
-  #keyart-3 {
-    background-image: url("img/ground32-min.svg");
-  }
-  #keyart-4 {
-    background-image: url("img/ground22-min.svg");
-  }
-  #keyart-5 {
-    background-image: url("img/ground12-min.svg");
-  }
 }

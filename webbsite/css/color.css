@@ -1,9 +1,9 @@
 body {
-  background-color: #244918;
+  background-color: hsl(105, 51%, 19%);
 }
 .bg-test {
   background-color: #f5f5dd;
 }
 .background {
-  background: #244918;
+  background: hsl(105, 51%, 19%);
 }
