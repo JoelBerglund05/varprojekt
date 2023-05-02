@@ -1,0 +1,13 @@
+body {
+  background-color: hsl(105, 51%, 19%);
+}
+.bg-test {
+  background-color: #f5f5dd;
+}
+.background {
+  background: hsl(106, 34%, 12%);
+}
+.bg {
+  background-color: hsl(103, 31%, 18%);
+  color: aliceblue;
+}
