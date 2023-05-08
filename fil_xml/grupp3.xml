@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.59.0" platform="*nix">
+	<Servers>
+		<Server>
+			<Host>webb1.tcstenungsund.se</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>grupp3</User>
+			<Pass encoding="base64">OUtaYiRtMmN3bVZuZXd2QyM0UnZIRjVyI1M4UFNZYkRiOWZValVmeTNI</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>tcstenungsund - Grupp 3</Name>
+			<Colour>3</Colour>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>
