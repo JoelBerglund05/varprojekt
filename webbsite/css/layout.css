@@ -5,27 +5,6 @@
 .arrow_back {
   position: relative;
 }
-/*
-TA INTE BORT!!!!!
-
-.footer_ul .arrow_back:before {
-  content: url(img/arrow-back-to-the-latest-page.png);
-  position: absolute;
-  top: 0;
-  right: 100%;
-  width: 50%;
-  margin-left: 1rem;
-}
-.arrow_forward {
-  position: relative;
-}
-.footer_ul .arrow_forward:after {
-  content: url(img/arrow-to-next-page.png);
-  position: absolute;
-  top: 0;
-  left: 110%;
-  width: 50%;
-}*/
 .show-content-sm {
   display: none;
 }
@@ -33,4 +12,8 @@ TA INTE BORT!!!!!
   .show-content-sm {
     display: contents;
   }
+}
+.navbar-toggler-icon {
+  background-image: url(img/varlogofinal2-min.svg);
+  scale: 2;
 }
