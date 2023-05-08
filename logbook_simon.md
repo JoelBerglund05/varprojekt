@@ -59,3 +59,19 @@ Idag jobbade jag med att ändra bakgrunds-svg färgschemat, samt segmenterade de
 ## **Måndag 24/4**
 
 Idag fixade jag storleken på alla parallax element, eftersom dem alla hade en maskerad och därmed osynlig del som räknades med i background size-cover, på grund av hur jag gjorde dem med clipping tools i inkscape. När man då använde "background-size: cover;" så blev parallax elementen effektivt mindre än hela skärmen, eftersom dem osynliga delarna räknades med. Jag gjorde som sagt därför om elementen denna lektion för att bli av med dem osynliga delarna, så background-size kommer fungera som den skall.
+
+## **Tisdag 25/4**
+
+Engelska NP, ingen webblektion.
+
+## **Måndag 1/5**
+
+1a maj, ledig dag.
+
+## **tisdag 2/5**
+
+Vi har omtänkt hela vårat färgschema, vilket jag började göra idag. Vi vill ha det mer gradient-orienterat, som t.ex. prime gaming ser ut.
+
+## **måndag 8/5**
+
+Idag gjorde jag klart färgschemat samt implementerat det där det skall vara så mycket som jag han.
