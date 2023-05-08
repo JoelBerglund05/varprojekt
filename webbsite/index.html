@@ -19,24 +19,26 @@
   </head>
 
   <body class="">
-    <ul
-      class="nav d-flex justify-content-center gap-5 sticky-top z-index bg-white"
-    >
-      <li class="nav-item">
-        <a class="link active" href="index.html">Start</a>
-      </li>
-      <li class="nav-item">
-        <a class="link" href="about.html">om oss</a>
-      </li>
-      <li class="nav-item">
-        <a
-          class="link"
-          href="https://app.tcstenungsund.se/themes/tcapp/images/tc-s-trans.svg"
-          >TC Stenungsund</a
-        >
-      </li>
-    </ul>
-    <div class="keyart" id="parallax">
+    <nav>
+      <ul
+        class="nav d-flex justify-content-center gap-5 sticky-top z-index bg-white"
+      >
+        <li class="nav-item">
+          <a class="link active" href="index.html">Start</a>
+        </li>
+        <li class="nav-item">
+          <a class="link" href="about.html">om oss</a>
+        </li>
+        <li class="nav-item">
+          <a
+            class="link"
+            href="https://app.tcstenungsund.se/themes/tcapp/images/tc-s-trans.svg"
+            >TC Stenungsund</a
+          >
+        </li>
+      </ul>
+    </nav>
+    <header class="keyart" id="parallax">
       <div
         class="keyart_layer w-100 min-vh-100 parallax position-fixed"
         id="keyart-0"
@@ -85,19 +87,19 @@
         class="keyart_layer w-100 min-vh-100 d-flex justify-content-center"
         id="keyart-5"
       ></div>
-    </div>
+    </header>
 
     <div class="background">
       <div class="container-md pt-5">
-        <div class="row justify-content-around my-3">
+        <section class="row justify-content-around my-3">
           <div class="col-12 col-md-6 col-sm-12 link">
             <div class="card card_width mx-auto bg border-black">
               <img
                 src="css/img/vattenkraftverk.jpg"
-                class="card-img-top"
+                class="card-img-top img-style"
                 alt="Vattenkraftverk"
               />
-              <div class="text-center">
+              <aside class="text-center">
                 <p class="sm-text mb-0">
                   Denna bild går under en
                   <a
@@ -108,13 +110,13 @@
                   licence.
                 </p>
                 <p class="sm-text">Upphovspersonen är NCC_AB</p>
-              </div>
+              </aside>
               <div class="card-body">
                 <h5>Vattenkraft</h5>
                 <p class="card-text">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Curabitur in metus arcu. Pellentesque sem urna, condimentum a
-                  lobortis. hej jag gillar min sak
+                  Vattenkraft är en stor och viktig del av svenska el
+                  produktionen. Vattenkraften producerar 44% av de svenska
+                  elprodiktionen.
                 </p>
                 <div class="d-flex justify-content-center">
                   <a href="hydropower.html" class="btn bg-secondary"
@@ -127,16 +129,17 @@
           <div class="col-12 col-md-6 col-sm-12 link">
             <div class="card card_width mx-auto bg-white">
               <img
-                src="css/img/tillfälligbild.jpg  "
-                class="card-img-top"
+                src="css/img/Biokraft.jpg"
+                class="card-img-top img-style"
                 alt="tillfällig"
               />
               <div class="card-body">
                 <h5>Biokraft</h5>
                 <p class="card-text">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Curabitur in metus arcu. Pellentesque sem urna, condimentum a
-                  lobortis.
+                  Biokraft är ett sätt att återanvända kompost och avföring för
+                  att producera elektricitet. Det är också vanligt att driva
+                  fordon på biogas, flera av fordonen av kollektiv trafiken i
+                  sverige går på biogas.
                 </p>
                 <div class="d-flex justify-content-center">
                   <a href="bioenergy.html" class="btn bg-secondary"
@@ -146,21 +149,34 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="row justify-content-around my-3">
+        </section>
+        <section class="row justify-content-around my-3">
           <div class="col-12 col-md-6 col-sm-12 link">
             <div class="card card_width mx-auto">
               <img
-                src="css/img/tillfälligbild.jpg  "
-                class="card-img-top"
+                src="css/img/geotermiskenergi.jpg"
+                class="card-img-top img-style"
                 alt="tillfällig"
               />
+              <aside class="text-center">
+                <p class="sm-text mb-0">
+                  Denna bild går under en
+                  <a
+                    class="link-style"
+                    href="https://creativecommons.org/licenses/by-sa/3.0/no/deed.en"
+                    >creative commons</a
+                  >
+                  licence.
+                </p>
+                <p class="sm-text">Upphovspersonen är Haakon Fossen</p>
+              </aside>
               <div class="card-body">
                 <h5>Geotermisk energi</h5>
                 <p class="card-text">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Curabitur in metus arcu. Pellentesque sem urna, condimentum a
-                  lobortis.
+                  Geotermisk energi är energi som är lagrad i jordskorpan. Den
+                  geotermiska energin har sitt ursprung i den energin som
+                  bildades vid jordens bildande och från sönderfall av
+                  radioaktiva grundämnen i jordskorpan.
                 </p>
                 <div class="d-flex justify-content-center">
                   <a href="geothermal_energy.html" class="btn bg-secondary"
@@ -173,16 +189,30 @@
           <div class="col-12 col-md-6 col-sm-12 link">
             <div class="card card_width mx-auto">
               <img
-                src="css/img/tillfälligbild.jpg"
-                class="card-img-top"
+                src="css/img/solceller.jpg"
+                class="card-img-top img-style"
                 alt="tillfällig"
               />
+              <aside class="text-center">
+                <p class="sm-text mb-0">
+                  Denna bild går under en
+                  <a
+                    class="link-style"
+                    href="https://creativecommons.org/publicdomain/zero/1.0/"
+                    >creative commons</a
+                  >
+                  licence.
+                </p>
+                <p class="sm-text">Upphovspersonen är Alain Van Den Hende</p>
+              </aside>
               <div class="card-body">
                 <h5>Solkraft</h5>
                 <p class="card-text">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Curabitur in metus arcu. Pellentesque sem urna, condimentum a
-                  lobortis.
+                  Solkraft är omvandlandet av solljus till användbar
+                  elektricitet antingen direkt med hjälp av solceller eller
+                  indirekt med hjälp av termisk solkraft. Anläggningar som
+                  producerar elektricitet genom solkraft kallas solkraftverk och
+                  elen som produceras kallas solel.
                 </p>
                 <div class="d-flex justify-content-center">
                   <a href="solar_power.html" class="btn bg-secondary"
@@ -192,21 +222,37 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="row justify-content-center pb-5">
+        </section>
+        <section class="row justify-content-center pb-5">
           <div class="col-12 link primary justify-content-around">
             <div class="card card_width mx-auto">
               <img
-                src="css/img/tillfälligbild.jpg  "
-                class="card-img-top"
+                src="css/img/vindkraft.jpg"
+                class="card-img-top img-style"
                 alt="tillfällig"
               />
+              <aside class="text-center">
+                <p class="sm-text mb-0">
+                  Denna bild går under en
+                  <a
+                    class="link-style"
+                    href="https://creativecommons.org/licenses/by/2.0/"
+                    >creative commons</a
+                  >
+                  licence.
+                </p>
+                <p class="sm-text">
+                  Upphovspersonen är News Øresund – Johan Wessman
+                </p>
+              </aside>
               <div class="card-body">
                 <h5>Vindkraft</h5>
                 <p class="card-text">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Curabitur in metus arcu. Pellentesque sem urna, condimentum a
-                  lobortis.
+                  Vindkraft innebär produktion av elenergi som utvinns ur
+                  vinden. Vindkraft används numera över stora delar av världen
+                  för att producera el. Vindkraften är en form av omvandlad
+                  solenergi och drivs av vindarna som uppstår då jorden och dess
+                  atmosfär värms av solen.
                 </p>
                 <div class="d-flex justify-content-center">
                   <a href="wind_power.html" class="btn bg-secondary"
@@ -216,13 +262,13 @@
               </div>
             </div>
           </div>
-        </div>
+        </section>
       </div>
     </div>
     <footer class="bg-secondary">
       <h2 class="text-center pt-2 pb-2">Anndra energi källor</h2>
       <div class="container">
-        <div class="row justify-content-between flex-wrap">
+        <nav class="row justify-content-between flex-wrap">
           <ul class="footer_ul col-md-4 col-sm-12">
             <li class="d-flex align-items-center justify-content-center my-5">
               <a class="arrow_back" id="go-back" href="">Tillbaka</a>
@@ -249,7 +295,7 @@
               <a class="arrow_forward" href="hydropower.html">Nästa sida</a>
             </li>
           </ul>
-        </div>
+        </nav>
       </div>
     </footer>
     <script src="Js/script.js"></script>

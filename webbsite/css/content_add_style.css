@@ -34,3 +34,6 @@
 #keyart-5 {
   background-image: url("img/ground12-min.svg");
 }
+.img-style {
+  aspect-ratio: 16 / 9;
+}
