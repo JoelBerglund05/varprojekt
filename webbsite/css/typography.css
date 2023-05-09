@@ -33,10 +33,3 @@ h6 {
 .sm-text {
   font-size: 0.7rem;
 }
-.link-style {
-  text-decoration: underline;
-  color: blue;
-}
-.link-style:visited {
-  color: purple;
-}
