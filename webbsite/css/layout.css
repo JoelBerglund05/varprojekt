@@ -17,3 +17,14 @@
   background-image: url(img/varlogofinal2-min.svg);
   scale: 2;
 }
+@media (min-width: 576px) {
+  .d-flex-nav {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media (min-width: 767px) {
+  .d-flex-nav {
+    display: block;
+  }
+}
