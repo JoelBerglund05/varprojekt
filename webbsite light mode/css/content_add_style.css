@@ -1,0 +1,39 @@
+.footer_ul {
+  list-style: none;
+  padding: 0;
+}
+.footer_ul .dot:before {
+  content: "• ";
+}
+.header-style {
+  z-index: 0;
+}
+.keyart,
+.keyart_layer {
+  z-index: -1;
+}
+.keyart_layer {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#keyart-0 {
+  background-image: url("img/sky2-min.svg");
+}
+#keyart-1 {
+  background-image: url("img/ground52-min.svg");
+}
+#keyart-2 {
+  background-image: url("img/ground42-min.svg");
+}
+#keyart-3 {
+  background-image: url("img/ground32-min.svg");
+}
+#keyart-4 {
+  background-image: url("img/ground22-min.svg");
+}
+#keyart-5 {
+  background-image: url("img/ground12-min.svg");
+}
+.img-style {
+  aspect-ratio: 16 / 9;
+}

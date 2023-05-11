@@ -1,0 +1,30 @@
+.card_width {
+  max-width: 25rem;
+  min-width: 13rem;
+}
+.arrow_back {
+  position: relative;
+}
+.show-content-sm {
+  display: none;
+}
+@media (max-width: 767px) {
+  .show-content-sm {
+    display: contents;
+  }
+}
+.navbar-toggler-icon {
+  background-image: url(img/varlogofinal2-min.svg);
+  scale: 2;
+}
+@media (min-width: 576px) {
+  .d-flex-nav {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media (min-width: 767px) {
+  .d-flex-nav {
+    display: block;
+  }
+}
