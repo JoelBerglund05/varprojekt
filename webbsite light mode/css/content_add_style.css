@@ -37,3 +37,9 @@
 .img-style {
   aspect-ratio: 16 / 9;
 }
+.card-style {
+  border: 0.4rem #54774b solid;
+  border-top-left-radius: 0.55rem;
+  border-top-right-radius: 0.55rem;
+  box-shadow: 0 0 0.2rem #354531a7;
+}

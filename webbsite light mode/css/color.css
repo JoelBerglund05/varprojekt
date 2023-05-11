@@ -1,0 +1,6 @@
+.bg {
+  background-color: #826c4f;
+}
+.bg:hover {
+  background-color: hsl(33, 25%, 28%);
+}

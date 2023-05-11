@@ -28,3 +28,6 @@
     display: block;
   }
 }
+.min-vh-97 {
+  min-height: 97vh;
+}
