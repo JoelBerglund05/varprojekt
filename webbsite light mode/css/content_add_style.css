@@ -1,4 +1,4 @@
-.footer_ul {
+ .footer_ul {
   list-style: none;
   padding: 0;
 }
@@ -41,5 +41,8 @@
   border: 0.4rem #54774b solid;
   border-top-left-radius: 0.55rem;
   border-top-right-radius: 0.55rem;
+  box-shadow: 0 0 0.2rem #354531a7;
+}
+.shadow-box{
   box-shadow: 0 0 0.2rem #354531a7;
 }
