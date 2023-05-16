@@ -1,4 +1,4 @@
- .footer_ul {
+.footer_ul {
   list-style: none;
   padding: 0;
 }
@@ -36,6 +36,7 @@
 }
 .img-style {
   aspect-ratio: 16 / 9;
+  object-fit: cover;
 }
 .card-style {
   border: 0.4rem #54774b solid;
@@ -43,6 +44,6 @@
   border-top-right-radius: 0.55rem;
   box-shadow: 0 0 0.2rem #354531a7;
 }
-.shadow-box{
+.shadow-box {
   box-shadow: 0 0 0.2rem #354531a7;
 }
