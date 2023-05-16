@@ -37,3 +37,6 @@
 .img-style {
   aspect-ratio: 16 / 9;
 }
+.min-vh-97 {
+  min-height: 90vh;
+}
