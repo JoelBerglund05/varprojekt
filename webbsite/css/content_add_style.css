@@ -36,7 +36,13 @@
 }
 .img-style {
   aspect-ratio: 16 / 9;
+  object-fit: cover;
 }
 .min-vh-97 {
   min-height: 90vh;
+}
+.card-style {
+  border: 0 solid;
+  outline: 0.5rem solid #54774b;
+  box-shadow: 0.5rem 0.5rem 0.5rem hsla(108, 17%, 23%, 0.5);
 }

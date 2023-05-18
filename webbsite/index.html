@@ -69,7 +69,9 @@
         id="keyart-5"
       ></div>
     </header>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary sticky-top bg-dark">
+    <nav
+      class="navbar navbar-expand-lg bg-body-tertiary sticky-top bg-dark shadow-lg"
+    >
       <div class="container-fluid">
         <button
           class="navbar-toggler"
@@ -108,10 +110,10 @@
     </nav>
     <div class="bg-primary">
       <div class="container-md pt-5">
-        <section class="row justify-content-around align-items-stretch my-3">
-          <div class="col-12 col-md-6 col-sm-12 link">
+        <section class="row justify-content-around align-items-stretch">
+          <div class="col-12 col-md-6 col-sm-12 link my-5">
             <div
-              class="card h-100 card_width mx-auto border-black bg-secondary"
+              class="card h-100 card_width mx-auto border-black bg-secondary card-style"
             >
               <img
                 src="css/img/vattenkraftverk.jpg"
@@ -145,10 +147,8 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-md-6 col-sm-12 link">
-            <div
-              class="card h-100 card_width mx-auto bg-secondary mt-sm-5 mt-md-0"
-            >
+          <div class="col-12 col-md-6 col-sm-12 link my-5">
+            <div class="card h-100 card_width mx-auto bg-secondary card-style">
               <img
                 src="css/img/Biokraft.jpg"
                 class="card-img-top img-style"
@@ -183,9 +183,9 @@
             </div>
           </div>
         </section>
-        <section class="row justify-content-around align-items-stretch my-3">
-          <div class="col-12 col-md-6 col-sm-12 link">
-            <div class="card h-100 card_width mx-auto bg-secondary">
+        <section class="row justify-content-around align-items-stretch">
+          <div class="col-12 col-md-6 col-sm-12 link my-5">
+            <div class="card h-100 card_width mx-auto card-style bg-secondary">
               <img
                 src="css/img/geotermiskenergi.jpg"
                 class="card-img-top img-style"
@@ -221,10 +221,8 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-md-6 col-sm-12 link">
-            <div
-              class="card h-100 card_width mx-auto bg-secondary mt-sm-5 mt-md-0"
-            >
+          <div class="col-12 col-md-6 col-sm-12 link my-5">
+            <div class="card h-100 card_width mx-auto bg-secondary card-style">
               <img
                 src="css/img/solceller.jpg"
                 class="card-img-top img-style"
@@ -265,8 +263,8 @@
         <section
           class="row justify-content-center align-items align-items-stretch pb-5"
         >
-          <div class="col-12 link primary justify-content-around">
-            <div class="card h-100 card_width mx-auto bg-secondary">
+          <div class="col-12 link primary justify-content-around my-5">
+            <div class="card h-100 card_width mx-auto bg-secondary card-style">
               <img
                 src="css/img/vindkraft.jpg"
                 class="card-img-top img-style"
@@ -310,30 +308,27 @@
       <h2 class="text-center pt-2 pb-2">Andra energikällor</h2>
       <div class="container">
         <nav class="row justify-content-between flex-wrap">
-          <ul class="footer_ul col-md-4 col-sm-12">
-            <li class="d-flex align-items-center justify-content-center my-5">
-              <a class="arrow_back" id="go-back" href="">Tillbaka</a>
+          <ul class="col-md-6 col-sm-12 d-grid justify-content-center">
+            <li class="">
+              <a class="dot text-white" href="hydropower.html">Vattenkraft</a>
+            </li>
+            <li class="">
+              <a class="dot text-white" href="bioenergy.html">Biokraft</a>
+            </li>
+            <li class="">
+              <a class="dot text-white text-white" href="geothermal_energy.html"
+                >geotermiskenergi</a
+              >
             </li>
           </ul>
           <ul
-            class="footer_ul col-md-4 col-sm-12 d-grid justify-content-center"
+            class="footer_ul col-md-6 col-sm-12 d-grid justify-content-center"
           >
-            <li class="">
-              <a class="dot" href="solar_power.html">Solkraft</a>
+            <li>
+              <a href="solar_power.html" class="dot text-white">Solkraft</a>
             </li>
-            <li class="">
-              <a class="dot" href="wind_power.html">Vindkraft</a>
-            </li>
-            <li class="">
-              <a class="dot" href="bioenergy.html">Biokraft</a>
-            </li>
-            <li class="">
-              <a class="dot" href="index.html">Start sida</a>
-            </li>
-          </ul>
-          <ul class="footer_ul col-md-4 col-sm-12">
-            <li class="d-flex align-items-center justify-content-center my-5">
-              <a class="arrow_forward" href="hydropower.html">Nästa sida</a>
+            <li>
+              <a href="wind_power.html" class="dot text-white">vindkraft</a>
             </li>
           </ul>
         </nav>
