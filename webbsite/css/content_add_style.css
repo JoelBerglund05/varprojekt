@@ -42,9 +42,8 @@
   min-height: 90vh;
 }
 .card-style {
-  border: 0 solid;
-  outline: 0.5rem solid #54774b;
-  box-shadow: 0.5rem 0.5rem 0.5rem hsla(108, 17%, 23%, 0.5);
+  border: 0.5rem solid #54774b;
+  box-shadow: 0 0 0.5rem hsla(108, 17%, 23%, 0.5);
 }
 .logotype {
   height: 3rem;
