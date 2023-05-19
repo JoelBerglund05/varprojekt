@@ -43,8 +43,16 @@
 }
 .card-style {
   border: 0.5rem solid #54774b;
+}
+.box-shadow,
+.card-style {
   box-shadow: 0 0 0.5rem hsla(108, 17%, 23%, 0.5);
 }
 .logotype {
   height: 3rem;
+}
+.background {
+  background-image: url(img/parallax5-min.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }

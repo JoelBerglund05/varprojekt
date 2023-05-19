@@ -14,8 +14,7 @@
   }
 }
 .navbar-toggler-icon {
-  background-image: url(img/varlogofinal2-min.svg);
-  scale: 2;
+  background-image: url(img/hamburger-icon.svg);
 }
 @media (min-width: 576px) {
   .d-flex-nav {
@@ -28,6 +27,6 @@
     display: block;
   }
 }
-.z-index-5{
+.z-index-5 {
   z-index: 9999999999;
 }
