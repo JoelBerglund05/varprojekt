@@ -18,15 +18,26 @@ function cast_parallax() {
 
 document.body.onload = cast_parallax();
 
-// Go back function
-let go_back = document.getElementById("go-back");
+function set_darkmode() {
+  if (
+    "0" ==
+    (document.cookie.match(/^(?:.*;)?\s*Theme\s*=\s*([^;]+)(?:.*)?$/) || [
+      ,
+      null,
+    ])[1]
+  ) {
+    let oldlink = document.getElementsByTagName("link").item(1);
 
-go_back.addEventListener("click", () => {
-  console.log(document.referrer);
+    let newlink = document.createElement("link");
+    newlink.setAttribute("rel", "stylesheet");
+    newlink.setAttribute("type", "text/css");
+    newlink.setAttribute("href", "css/bootstraps.min(dark).css");
 
-  if (document.referrer == "<empty string>") {
-    console.log("tjo");
+    document
+      .getElementsByTagName("head")
+      .item(1)
+      .replaceChild(newlink, oldlink);
   } else {
-    history.back();
+    document.cookie = "Theme=1;";
   }
-});
+}
