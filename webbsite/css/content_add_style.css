@@ -48,6 +48,9 @@
 .card-style {
   box-shadow: 0 0 0.5rem hsla(108, 17%, 23%, 0.5);
 }
+.lower-box-shadow {
+  box-shadow: 0 0.2rem 0.5rem hsla(108, 17%, 23%, 0.5);
+}
 .logotype {
   height: 3rem;
 }
