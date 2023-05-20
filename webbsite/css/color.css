@@ -1,3 +1,8 @@
+:root[data-theme="light"] {
+  --prbg: #242e22;
+  --sebg: white;
+}
+
 .hihi {
-  background-color: #242e22;
+  background-color: var(--prbg);
 }
