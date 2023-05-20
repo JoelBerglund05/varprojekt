@@ -63,3 +63,13 @@
   height: 10rem;
   width: 10rem;
 }
+@media (min-width: 576px) {
+  .wbp {
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  .wbp {
+    max-width: 75%;
+  }
+}
