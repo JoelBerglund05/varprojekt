@@ -16,24 +16,7 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
-#keyart-0 {
-  background-image: url("img/sky2-min.svg");
-}
-#keyart-1 {
-  background-image: url("img/ground52-min.svg");
-}
-#keyart-2 {
-  background-image: url("img/ground42-min.svg");
-}
-#keyart-3 {
-  background-image: url("img/ground32-min.svg");
-}
-#keyart-4 {
-  background-image: url("img/ground22-min.svg");
-}
-#keyart-5 {
-  background-image: url("img/ground12-min.svg");
-}
+
 .img-style {
   aspect-ratio: 16 / 9;
   object-fit: cover;
@@ -70,6 +53,24 @@
 @media (min-width: 768px) {
   .wbp {
     max-width: 75%;
+  }
+  #keyart-0 {
+    background-image: url("img/sky2-min.svg");
+  }
+  #keyart-1 {
+    background-image: url("img/ground52-min.svg");
+  }
+  #keyart-2 {
+    background-image: url("img/ground42-min.svg");
+  }
+  #keyart-3 {
+    background-image: url("img/ground32-min.svg");
+  }
+  #keyart-4 {
+    background-image: url("img/ground22-min.svg");
+  }
+  #keyart-5 {
+    background-image: url("img/ground12-min.svg");
   }
 }
 link[rel="icon"] {
