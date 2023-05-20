@@ -49,6 +49,16 @@
   .wbp {
     max-width: 100%;
   }
+  .parallax {
+    background-image: url(img/parallax5-min.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+.parallax {
+  background-image: url(img/parallax5-min.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 @media (min-width: 768px) {
   .wbp {
@@ -71,6 +81,9 @@
   }
   #keyart-5 {
     background-image: url("img/ground12-min.svg");
+  }
+  .parallax {
+    background-image: none;
   }
 }
 link[rel="icon"] {
