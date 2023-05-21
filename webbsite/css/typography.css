@@ -1,35 +1,39 @@
 @font-face {
   /*Bröd text*/
-  font-family: "prompt_light";
+  font-family: "prompt_light", sans-serif;
   src: url(fonts/Prompt/Prompt-Light.ttf);
 
   /*Rubrik*/
-  font-family: "roboto_bold";
+  font-family: "roboto_bold", sans-serif;
   src: url(fonts/Roboto_Slab/static/RobotoSlab-Bold.ttf);
 }
 
 p {
-  font-family: "prompt_light";
+  font-family: sans-serif;
 }
 
 h1 {
-  font-family: "roboto_bold";
+  font-family:  sans-serif;
 }
 h2 {
-  font-family: "roboto_bold";
+  font-family: sans-serif;
 }
 h3 {
-  font-family: "roboto_bold";
+  font-family: sans-serif;
 }
 h4 {
-  font-family: "roboto_bold";
+  font-family: sans-serif;
 }
 h5 {
-  font-family: "roboto_bold";
+  font-family: sans-serif;
 }
 h6 {
-  font-family: "roboto_bold";
+  font-family: sans-serif;
 }
 .sm-text {
   font-size: 0.7rem;
+}
+.card h2{
+  font-size: 1.5rem;
+  font-weight: bold;
 }
