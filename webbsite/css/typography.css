@@ -1,19 +1,9 @@
-@font-face {
-  /*Bröd text*/
-  font-family: "prompt_light", sans-serif;
-  src: url(fonts/Prompt/Prompt-Light.ttf);
-
-  /*Rubrik*/
-  font-family: "roboto_bold", sans-serif;
-  src: url(fonts/Roboto_Slab/static/RobotoSlab-Bold.ttf);
-}
-
 p {
   font-family: sans-serif;
 }
 
 h1 {
-  font-family:  sans-serif;
+  font-family: sans-serif;
 }
 h2 {
   font-family: sans-serif;
@@ -33,7 +23,7 @@ h6 {
 .sm-text {
   font-size: 0.7rem;
 }
-.card h2{
+.card h2 {
   font-size: 1.5rem;
   font-weight: bold;
 }

@@ -1,125 +1,118 @@
-.container{
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    justify-content: center;
-    margin: 0 10rem 0 10rem;
+.container {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  justify-content: center;
+  margin: 0 10rem 0 10rem;
 }
-.typo_rub{
-    grid-column: 5 / 9;
-    grid-row: 1;
+.typo_rub {
+  grid-column: 5 / 9;
+  grid-row: 1;
 }
-.text_font{
-    grid-column: 5 / 8;
-    grid-row: 2;
+.text_font {
+  grid-column: 5 / 8;
+  grid-row: 2;
 }
-.rub_rub{
-    grid-column: 1 / 2;
-    grid-row: 1;  
+.rub_rub {
+  grid-column: 1 / 2;
+  grid-row: 1;
 }
-.rubrik{
+.rubrik {
   grid-column: 3 / 5;
   grid-row: 2;
-
 }
-.moodboard_rub{
+.moodboard_rub {
   grid-column: 1 / 4;
   grid-row: 3;
 }
-.moodboard{
+.moodboard {
   grid-column: 1 / 4;
   grid-row: 4;
 }
-.img_moodboard{
+.img_moodboard {
   grid-column: 1 / 4;
   grid-area: 5;
 }
-.färger_rub{
+.färger_rub {
   grid-column: 5 / 9;
   grid-row: 3;
 }
-.färger{
+.färger {
   grid-column: 5 / 9;
   grid-row: 4;
 }
-.img_färg{
+.img_färg {
   grid-column: 5 / 9;
   grid-row: 5;
 }
-.visual_language_rub{
+.visual_language_rub {
   grid-column: 1 / 4;
   grid-row: 6;
 }
-.visual_language{
+.visual_language {
   grid-column: 1 / 4;
   grid-row: 7;
 }
-.voice_rub{
+.voice_rub {
   grid-column: 5 / 9;
   grid-row: 6;
 }
-.voice{
+.voice {
   grid-column: 5 / 9;
   grid-row: 7;
 }
-.buissnes_objective_rub{
+.buissnes_objective_rub {
   grid-column: 1 / 4;
   grid-row: 8;
 }
-.buissnes_objective{
+.buissnes_objective {
   grid-column: 1 / 6;
   grid-row: 9;
 }
 
-h1, h2{
+h1,
+h2 {
   text-align: center;
-  
 }
-@font-face {
-  /*Bröd text*/
-  font-family: "promt_light";
-  src: url(fonts/Prompt/Prompt-Light.ttf);
-
-  /*Rubrik*/
-  font-family: "roboto_bold";
-  src: url(fonts/Roboto_Slab/static/RobotoSlab-Bold.ttf);
+* {
+  font-family: sans-serif;
 }
 
-p{
+p {
   font-family: "promt_light";
   font-size: 1.25rem;
 }
 
-h1{
+h1 {
   font-family: "roboto_bold";
   font-size: 3.5rem;
 }
-h2{
+h2 {
   font-family: "roboto_bold";
   font-size: 2.5rem;
 }
-h3{
+h3 {
   font-family: "roboto_bold";
   font-size: 2rem;
 }
-h4{
+h4 {
   font-family: "roboto_bold";
   font-size: 1.75rem;
 }
-h5{
+h5 {
   font-family: "roboto_bold";
   font-size: 1.5rem;
 }
-h6{
+h6 {
   font-family: "roboto_bold";
   font-size: 1.25rem;
 }
-.start{
+.start {
   text-align: start;
   margin-top: -1.5rem;
-} 
-.elel{
+}
+.elel {
   text-align: start;
 }
-.soso{
+.soso {
   margin-bottom: 4rem;
 }
