@@ -48,7 +48,7 @@
     max-width: 100%;
   }
   .parallax {
-    background-image: url(img/parallax5-min.svg);
+    background-image: url(img/paralax-img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -57,7 +57,7 @@
   }
 }
 .parallax {
-  background-image: url(img/parallax5-min.svg);
+  background-image: url(img/paralax-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
