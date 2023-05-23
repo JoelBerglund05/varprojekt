@@ -53,7 +53,10 @@
     background-size: cover;
   }
   .logotype {
-    opacity: 0;
+    display: none;
+  }
+  .logotype-image {
+    display: inline;
   }
 }
 .parallax {
@@ -87,7 +90,10 @@
     background-image: none;
   }
   .logotype {
-    opacity: 1;
+    display: inline;
+  }
+  .logotype-image {
+    display: none;
   }
 }
 link[rel="icon"] {
@@ -101,4 +107,7 @@ svg:hover .beam {
 .beam {
   opacity: 0;
   transition: opacity 0.2s ease-in-out;
+}
+.m-header {
+  margin: 3rem 0 9rem 0;
 }
