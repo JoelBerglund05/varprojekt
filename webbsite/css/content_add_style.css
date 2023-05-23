@@ -34,9 +34,7 @@
 .lower-box-shadow {
   box-shadow: 0 0.5rem 0.5rem hsla(108, 17%, 23%, 0.3);
 }
-.logotype {
-  height: 3rem;
-}
+
 .background {
   background-image: url(img/parallax5-min.svg);
   background-size: cover;
@@ -53,6 +51,9 @@
     background-image: url(img/parallax5-min.svg);
     background-repeat: no-repeat;
     background-size: cover;
+  }
+  .logotype {
+    height: 2rem;
   }
 }
 .parallax {
@@ -85,7 +86,10 @@
   .parallax {
     background-image: none;
   }
+  .logotype {
+    height: 3rem;
+  }
 }
 link[rel="icon"] {
-  scale: 2;
+  transform: scale(2);
 }

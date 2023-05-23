@@ -30,13 +30,16 @@
 .z-index-5 {
   z-index: 9999999999;
 }
-.main-textarea{
+.main-textarea {
   min-height: 10rem;
 }
-input::placeholder, textarea::placeholder{
-  color: #000;
+input::placeholder,
+textarea::placeholder {
+  color: #2f3131;
+  opacity: 1;
 }
-.input-style, .main-textarea{
+.input-style,
+.main-textarea {
   background-color: #729669;
   border: none;
 }
