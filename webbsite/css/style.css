@@ -1,3 +1,60 @@
+/*Layout*/
+.card_width {
+  max-width: 25rem;
+  min-width: 13rem;
+}
+.show-content-sm {
+  display: none;
+}
+@media (max-width: 767px) {
+  .show-content-sm {
+    display: contents;
+  }
+}
+.navbar-toggler-icon {
+  background-image: url(img/hamburger-icon.svg);
+}
+@media (min-width: 576px) {
+  .d-flex-nav {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media (min-width: 767px) {
+  .d-flex-nav {
+    display: block;
+  }
+}
+.z-index-5 {
+  z-index: 9999999999;
+}
+.main-textarea {
+  min-height: 10rem;
+}  
+
+/*Color*/
+input::placeholder,
+textarea::placeholder {
+  color: #2f3131;
+  opacity: 1;
+}
+.input-style,
+.main-textarea {
+  background-color: #729669;
+  border: none;
+}
+.card-style {
+  border: 0.5rem solid #54774b;
+}
+.box-shadow,
+.card-style {
+  box-shadow: 0 0 0.5rem hsla(108, 17%, 23%, 0.5);
+}
+.lower-box-shadow {
+  box-shadow: 0 0.5rem 0.5rem hsla(108, 17%, 23%, 0.3);
+}
+
+/*content style*/
 .footer_ul {
   list-style: none;
   padding: 0;
@@ -23,22 +80,12 @@
 }
 .min-vh-97 {
   min-height: 90vh;
-}
-.card-style {
-  border: 0.5rem solid #54774b;
-}
-.box-shadow,
-.card-style {
-  box-shadow: 0 0 0.5rem hsla(108, 17%, 23%, 0.5);
-}
-.lower-box-shadow {
-  box-shadow: 0 0.5rem 0.5rem hsla(108, 17%, 23%, 0.3);
-}
+}  
 
 .background {
-  background-image: url(img/parallax5-min.svg);
-  background-size: cover;
-  background-repeat: no-repeat;
+    background-image: url(img/parallax5-min.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .tc {
   height: 10rem;
@@ -111,4 +158,35 @@ svg:hover .beam {
 }
 .m-header {
   margin: 3rem 0 9rem 0;
+}
+
+/*Typografi*/
+p {
+  font-family: sans-serif, Arial, Helvetica;
+}
+
+h1 {
+  font-family: sans-serif, Arial, Helvetica;
+}
+h2 {
+  font-family: sans-serif, Arial, Helvetica;
+}
+h3 {
+  font-family: sans-serif, Arial, Helvetica;
+}
+h4 {
+  font-family: sans-serif, Arial, Helvetica;
+}
+h5 {
+  font-family: sans-serif, Arial, Helvetica;
+}
+h6 {
+  font-family: sans-serif, Arial, Helvetica;
+}
+.sm-text {
+  font-size: 0.7rem;
+}
+.card h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
 }
