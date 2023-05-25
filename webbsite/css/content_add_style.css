@@ -48,16 +48,19 @@
     max-width: 100%;
   }
   .parallax {
-    background-image: url(img/paralax-img.jpg);
+    background-image: url(img/paralax-img.webp);
     background-repeat: no-repeat;
     background-size: cover;
   }
   .logotype {
-    height: 2rem;
+    display: none;
+  }
+  .logotype-image {
+    display: inline;
   }
 }
 .parallax {
-  background-image: url(img/paralax-img.jpg);
+  background-image: url(img/paralax-img.webp);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -87,7 +90,10 @@
     background-image: none;
   }
   .logotype {
-    height: 3rem;
+    display: inline;
+  }
+  .logotype-image {
+    display: none;
   }
 }
 link[rel="icon"] {
@@ -101,4 +107,7 @@ svg:hover .beam {
 .beam {
   opacity: 0;
   transition: opacity 0.2s ease-in-out;
+}
+.m-header {
+  margin: 3rem 0 9rem 0;
 }
