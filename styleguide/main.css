@@ -76,34 +76,35 @@ h2 {
 * {
   font-family: sans-serif;
 }
-
+h1, h2, h3, h4, h5,h6, p {
+  font-family: sans-serif;
+}
 p {
-  font-family: "promt_light";
   font-size: 1.25rem;
 }
 
 h1 {
-  font-family: "roboto_bold";
+  
   font-size: 3.5rem;
 }
 h2 {
-  font-family: "roboto_bold";
+  
   font-size: 2.5rem;
 }
 h3 {
-  font-family: "roboto_bold";
+  
   font-size: 2rem;
 }
 h4 {
-  font-family: "roboto_bold";
+  
   font-size: 1.75rem;
 }
 h5 {
-  font-family: "roboto_bold";
+  
   font-size: 1.5rem;
 }
 h6 {
-  font-family: "roboto_bold";
+  
   font-size: 1.25rem;
 }
 .start {
