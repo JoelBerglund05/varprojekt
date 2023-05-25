@@ -75,3 +75,7 @@ Vi har omtänkt hela vårat färgschema, vilket jag började göra idag. Vi vill
 ## **måndag 8/5**
 
 Idag gjorde jag klart färgschemat samt implementerat det där det skall vara så mycket som jag han.
+
+## **hemma**
+
+Jag och Joel har suttit tillsammans och jobbat väldigt mycket på fritiden, då vi har fixat javascripten på fritiden, löst brytpunkter på t.ex. parallaxen, fixat med besökanalysverktyg, tester med mera. Jag bestämde mig för analysverktyget Tinyanalytics då dem har allt man vill ha som land, enhetsinformation och heatmaps utan att lämna ett märke på hemsidans prestanda.
