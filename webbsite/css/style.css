@@ -157,7 +157,7 @@ svg:hover .beam {
   transition: opacity 0.2s ease-in-out;
 }
 .m-header {
-  margin: 3rem 0 9rem 0;
+  margin: 3rem auto 9rem auto;
 }
 
 /*Typografi*/
