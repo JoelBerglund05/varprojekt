@@ -30,7 +30,7 @@
 }
 .main-textarea {
   min-height: 10rem;
-}  
+}
 
 /*Color*/
 input::placeholder,
@@ -44,7 +44,7 @@ textarea::placeholder {
   border: none;
 }
 .card-style {
-  border: 0.5rem solid #54774b;
+  border: 0.25rem solid #54774b;
 }
 .box-shadow,
 .card-style {
@@ -80,12 +80,12 @@ textarea::placeholder {
 }
 .min-vh-97 {
   min-height: 90vh;
-}  
+}
 
 .background {
-    background-image: url(img/parallax5-min.svg);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-image: url(img/parallax5-min.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .tc {
   height: 10rem;
@@ -99,7 +99,7 @@ textarea::placeholder {
     background-repeat: no-repeat;
     background-size: cover;
   }
-  
+
   .logotype-image {
     display: inline;
   }
