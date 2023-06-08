@@ -76,3 +76,13 @@ Engelska NP
 ## **Måndag 1/05**
 
 ledig
+
+## **Tisdag 2/05**
+
+Jag leta efter ett sätt att se till att en person inte gick tillbaka till någon anna sida om dem kom från någon annan sida för tillbaka knappen.
+
+## **Hemma**
+
+Jag och simon har lagt väldigt mycket tid på det mesta. Vi har gjort alla fin shusteringar så som placeringar av olika saker alltså vart ska loggan vara vid de olika storlekarna på skärmarna, hur smala får korten bli innan dem måste breaka till en mindre storlek, hur footern ska se ut och vad som ska teillhöra footern, valet på färgerna på hemsidan så att dem passar med kännslan vi är ute efter, med mycket mer.
+
+De lite större sakerna vi har arbetat med är paralaxen som krävde javascript, men det var inte de svåraste med den de var snarare att placera varge lager korrekt så att det såg bra ut. En annan stor grej är att se till att hemsidan alldtig ger side scroll och att det ser bra ut för alla storlekar på skärm, detta betyder att se till att bilderna inte blir strechade eller inte minskar tillräckligt.
